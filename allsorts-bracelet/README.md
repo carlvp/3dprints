@@ -7,7 +7,7 @@ You can either download the STL files or create new ones using the Customizer.
 
 Enjoy!
 
-![photo of Allsorts bracelet](images/allsorts1.jpg) ![photo of Allsorts bracelet](images/allsorts2.jpg)
+![photo of Allsorts bracelet](./images/allsorts1.jpg) ![photo of Allsorts bracelet](./images/allsorts2.jpg)
 
 ## Post-Printing
 
@@ -28,4 +28,4 @@ otherLinkWidth = 4
 magnetDiameter = 10.5
 magnetLength = 2
 
-![assemly instructions](images/assembly.jpg)
+![assemly instructions](./images/assembly.jpg)
