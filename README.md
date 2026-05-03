@@ -12,4 +12,4 @@ Winters are harsh on planet Pentatonia. On particularly cold days, the compounds
 
 ## Non-circular Gear
 Non-circular gear come in many shapes. They seem to defy the laws of motion. It really doesn't look like they are going to mesh at all, but somehow they do. That's why I think they are so cool.
-![photo of six non-circular gear of different shapes](./non-circular/images/photo.png)
+![photo of six non-circular gear of different shapes](./non-circular-gear/images/photo.png)

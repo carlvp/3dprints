@@ -5,6 +5,7 @@ Non-circular gear come in many shapes. They seem to defy the laws of motion. It 
 
 ## Parameters
 ![design parameters](./images/parameters.jpeg)
+
 All gears that are based on the same reference gear are compatible. The following parameters define the reference gear:
 
 * Eccentricity,
