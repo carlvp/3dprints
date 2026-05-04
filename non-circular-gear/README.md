@@ -12,7 +12,7 @@ All gears that are based on the same reference gear are compatible. The followin
 * Number of teeth per lobe (must be odd), and
 * Scale factor
 
-These three parameters have to be the same for gears that are to be used together.  Thanks to Thingiverse user @samyakbhalani, to point of that an odd number of teeth per lobe is required (the gears won't mesh otherwise).
+These three parameters have to be the same for gears that are to be used together.  Thanks to Thingiverse user @samyakbhalani for pointing out that an odd number of teeth per lobe is required (the gears won't mesh otherwise).
 
 Zero eccentricity means circle (boring!) and 1 results in an unbounded shape, but the values between 0 and 1 are useful. Low values yield rounded "polygons" and high values yield "propellers".  
 
@@ -25,13 +25,13 @@ The other parameters are:
 
 The STL files where generated using the following parameters
 
-Eccentricity of reference gear = 0.25
-Number of teeth per lobe = 17
-Scale factor = 8.25
-Number of lobes = 1, 2, 3, 4, 5, 6, 8, 10
-Axle diameter = 3.5
-Thickness = 4
-Normal backlash = 0.4
+Eccentricity of reference gear = 0.25  
+Number of teeth per lobe = 17  
+Scale factor = 8.25  
+Number of lobes = 1, 2, 3, 4, 5, 6, 8, 10  
+Axle diameter = 3.5  
+Thickness = 4  
+Normal backlash = 0.4  
 
 ## Axle Distance
 ![Axle Distance](./images/axle-distance.jpeg)
@@ -41,7 +41,8 @@ Add one of the gears' minimum radius to the other one's maximuim radius (see tab
 
 15.0 + 27.9 = 42.9, or (same result) 19.4 + 23.5 = 42.9
 
-|| Lobes || min r || max r ||
+| Lobes | min r | max r |
+| ---: | ---: | ---: |
 | 1 | 6.6 | 11.0 |
 | 2 | 15.0 | 19.4 |
 | 3 | 23.5 | 27.9 |
@@ -58,6 +59,5 @@ The gears jam if misaligned (=the "wrong" teeth mesh).
 
 As the gears rotate and mesh, the distance between their centra is constant. Well, that's the axle distance.
 
-## Licence
-Non-circular Gear
-by GitHub user carlvp is licensed under the Creative Commons - Attribution license.
+## License
+Non-circular Gear by GitHub user carlvp is licensed under the Creative Commons - Attribution license.

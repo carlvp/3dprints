@@ -21,3 +21,6 @@ To make the shape a little bit more complex and interesting two extra features w
 The triangular "wedges", however, play an important role; they form the hinges by which the whole structure snaps together. At each of the five sides of the base there is a "wedge" and a socket for the wedge of another snowflake.
 
 Happy printing!
+
+## License
+Alien Disco Lamp by GitHub user carlvp is licensed under the Creative Commons - Attribution license.

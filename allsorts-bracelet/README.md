@@ -19,13 +19,16 @@ The link snaps onto the axles of the other parts by holding it at a right angle 
 
 The link was created from The Missing Link in the Customizer App using the following options:
 
-axleDiameter = 3
-wallThickness = 2
-clearance = 0.3
-partToPrint = 2
-centerLinkWidth = 4
-otherLinkWidth = 4
-magnetDiameter = 10.5
-magnetLength = 2
+axleDiameter = 3  
+wallThickness = 2  
+clearance = 0.3  
+partToPrint = 2  
+centerLinkWidth = 4  
+otherLinkWidth = 4  
+magnetDiameter = 10.5  
+magnetLength = 2  
 
 ![assemly instructions](./images/assembly.jpeg)
+
+## License
+Allsorts Bracelet by GitHub user carlvp is licensed under the Creative Commons - Attribution license.
