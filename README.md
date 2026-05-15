@@ -18,3 +18,8 @@ Non-circular gear come in many shapes. They seem to defy the laws of motion. It 
 Watchaagear is a fidget with non-circular gears. The shape of the fidget is paramneterized, such that it can be varied ad infinitum. In the photo: a three-lobe and a four-lobe gear with the eccentricity parameter set to 0.25. Not very eccentric :-).
 
 ![photo of whatchamagear fidget](./watchamagear/images/photo.png)
+
+# Penta Gone off the Wall
+Wall decoration, which is a remix of the non-circular gears (see above).
+
+![photo of Penta Gone off the wall](./penta-gone-off-the-wall/images/photo.png)
