@@ -2,7 +2,7 @@
 Useful and not-so-useful designs for 3d-printing, lasercutting and milling
 I'm moving my existing, favorite designs to this repo and will add new ones here. 
 
-## Alsorts Bracelet
+## Allsorts Bracelet
 The best looking candy there is, now in a sweet and chewy PLA 3D-print.  
 ![photo of Allsorts bracelet](./allsorts-bracelet/images/allsorts1.jpeg)
 
@@ -13,3 +13,8 @@ Winters are harsh on planet Pentatonia. On particularly cold days, the compounds
 ## Non-circular Gear
 Non-circular gear come in many shapes. They seem to defy the laws of motion. It really doesn't look like they are going to mesh at all, but somehow they do. That's why I think they are so cool.
 ![photo of six non-circular gear of different shapes](./non-circular-gear/images/photo.png)
+
+# Whatchamagear
+Whatchaagear is a fidget with non-circular gears. The shape of the fidget is paramneterized, such that it can be varied ad infinitum. In the photo: a three-lobe and a four-lobe gear with the eccentricity parameter set to 0.25. Not very eccentric :-).
+
+![photo of whatchamagear fidget](./whatchamagear/images/photo.png)
