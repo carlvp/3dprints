@@ -3,7 +3,7 @@
 ![Cuckoo Clock Factory](./images/2.jpeg)
 
 ## Summary:
-The Cuckoo Clock Factory got hold of a stock of surplus gear, but none of them were round...
+The Cuckoo Clock Factory got hold of a stock of surplus gear, but none of them was round...
 
 ## Post-printing
 

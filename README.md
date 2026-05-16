@@ -28,5 +28,10 @@ Wall decoration, which is a remix of the non-circular gears (see above).
 
 ![Cuckoo Clock Factory](./cuckoo-clock-factory/images/2.jpeg)
 
-The Cuckoo Clock Factory got hold of a stock of surplus gear, but none of them were round...
+The Cuckoo Clock Factory got hold of a stock of surplus gear, but none of them was round...
 
+## "Leo" Overbalanced Wheel
+
+!["Leo" overbalanced wheel](./leo-overbalanced-wheel/images/leo1.jpeg)
+
+A decorative overbalanced wheel, in the spirit of Leonardo da Vinci.
