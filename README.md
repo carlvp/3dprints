@@ -15,7 +15,7 @@ Non-circular gear come in many shapes. They seem to defy the laws of motion. It 
 ![photo of six non-circular gear of different shapes](./non-circular-gear/images/photo.png)
 
 ## Watchamagear
-Watchaagear is a fidget with non-circular gears. The shape of the fidget is paramneterized, such that it can be varied ad infinitum. In the photo: a three-lobe and a four-lobe gear with the eccentricity parameter set to 0.25. Not very eccentric :-).
+Watchaagear is a fidget with non-circular gears. The shape of the fidget is parameterized, such that it can be varied ad infinitum. In the photo: a three-lobe and a four-lobe gear with the eccentricity parameter set to 0.25. Not very eccentric :-).
 
 ![photo of whatchamagear fidget](./watchamagear/images/photo.png)
 
